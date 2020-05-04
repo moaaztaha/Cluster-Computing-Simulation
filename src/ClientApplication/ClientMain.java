@@ -23,9 +23,5 @@ public class ClientMain {
         
         
         new ClientUI().setVisible(true);
-//        System.out.println("Go Start Switch before 20s");
-//        Thread.sleep(20000);
-//        cl.setTask();
-//        System.out.println("Tasks sent!");
     }
 }

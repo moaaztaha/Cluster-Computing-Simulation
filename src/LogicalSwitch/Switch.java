@@ -44,18 +44,6 @@ public class Switch extends UnicastRemoteObject implements SwitchInterface{
     }
 
 
-//    @Override
-//    public synchronized void sendAnswers(Task ans) throws RemoteException {
-//        System.out.println("Result arrive at Switch!!");
-//        t = ans;
-//        solved = true;
-//        try {
-//            sendSolvedTasks();
-//        } catch (Exception ex) {
-//            Logger.getLogger(Switch.class.getName()).log(Level.SEVERE, null, ex);
-//        }
-//    }
-//    
     @Override
     public void getTasksFromClient(ArrayList<Task> t) throws RemoteException
     {
