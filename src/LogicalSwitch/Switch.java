@@ -56,7 +56,7 @@ public class Switch extends UnicastRemoteObject implements SwitchInterface{
         for (int i=0; i<workers.size(); i++)
         {
             try {
-                // Connect to worker
+                // Connect to workers
                 Registry w_r = LocateRegistry.getRegistry("localhost", workers.get(i).getPort());
                 String name = "WORKER" + workers.get(i).getPort();
                 System.out.println("Name: " + name);

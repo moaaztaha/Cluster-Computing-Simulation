@@ -5,14 +5,11 @@
         <group>
             <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/LogicalSwitch/Switch.java</file>
             <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/ClientApplication/ClientInterface.java</file>
-            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/WorkerTerminals/Worker1.java</file>
-            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/LogicalSwitch/SwitchMain.java</file>
             <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/LogicalSwitch/Task.java</file>
+            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/LogicalSwitch/SwitchInterface.java</file>
             <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/ClientApplication/Client.java</file>
-            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/WorkerTerminals/Worker2.java</file>
-            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/ClientApplication/ClientUI.java</file>
             <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/Workers/Worker.java</file>
-            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/ClientApplication/ClientMain.java</file>
+            <file>file:/D:/BUE/Year%202/Semester%202/Distributed%20Systems/assignment2/Project_2/src/Workers/WorkerInterface.java</file>
         </group>
     </open-files>
 </project-private>

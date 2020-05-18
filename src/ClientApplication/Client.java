@@ -57,6 +57,7 @@ public class Client extends UnicastRemoteObject implements ClientInterface{
         return tasks;
     }
     
+    // Generates tasks
     public static ArrayList<Task> setTask() throws RemoteException, NotBoundException
     {
         // clear tasks 
@@ -70,6 +71,7 @@ public class Client extends UnicastRemoteObject implements ClientInterface{
         
         Random random = new Random();
         
+        // The number of generated tasks 50
         for (int i=0; i<50; i++)
         {
                 // First random task type
